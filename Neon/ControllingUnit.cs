@@ -285,16 +285,7 @@ namespace Neon
             
         }
 
-        #region HelpAndAbout
-        // Show Help & About windows
-
-        // Show about window
-        private void button1_Click(object sender, EventArgs e)
-        {
-            var about = new About();
-            about.ShowDialog();
-        }
-
+        #region Help
         // Show help window
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
