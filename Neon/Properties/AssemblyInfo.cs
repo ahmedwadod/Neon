@@ -9,7 +9,7 @@ using System.Resources;
 [assembly: AssemblyTitle("Neon")]
 [assembly: AssemblyDescription("NXT Robotic Car Contolled By Voice.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ahmed Abd Al-Wadood")]
+[assembly: AssemblyCompany("Ahmed Abdelwadod")]
 [assembly: AssemblyProduct("Neon")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
