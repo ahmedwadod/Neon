@@ -47,8 +47,8 @@ namespace Neon
     /// Changing port bug fixed.
     /// Edited data.
     /// 
-    /// Developer: Ahmed Abd Al-Wadood Abd Allah Al-Khalifa Al-Mobark.
-    /// (Ahmed A.Khalifa)
+    /// Developer: Ahmed Abdelwadod Abdalla Elkhalifa.
+    /// (Ahmed Abdelwadod)
     /// 
     /// October 9th 2015
     /// October 16th 2015.
@@ -309,4 +309,4 @@ namespace Neon
         }
     }
 }
-// Ahmed A.Khalifa
+// Ahmed Abdelwadod
